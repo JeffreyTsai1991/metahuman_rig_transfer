@@ -8,7 +8,7 @@
 3. ![图片](https://user-images.githubusercontent.com/88772846/132264485-74e9d98e-38d9-4227-ab56-1ca9fc5effd5.png)
 4. ![图片](https://user-images.githubusercontent.com/88772846/132264420-1128a2eb-d1f0-4ec2-bbdc-ea97e150c197.png)
 
-###良好习惯
+### 良好习惯
 建议在尝试此操作之前保存一份 Maya 文件的副本， 因为它会在 rig logic 网络中创建新节点并且不可撤销。
 
 
