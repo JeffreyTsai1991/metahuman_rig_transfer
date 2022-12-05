@@ -1,14 +1,6 @@
 # Metahuman Rig 传输脚本
 一系列 python 脚本，用于将 metahuman 装备修改为适用于 Maya 的新装备。
 
-youtube 视频演示 - https://www.youtube.com/watch?v=qF-z1aZQUYE
-
-## 目录
-1. [先决条件](https://github.com/JeffreyTsai1991/metahuman_rig_transferr#prerequisite)
-2. [使用说明](https://github.com/JeffreyTsai1991/metahuman_rig_transfer#instructions)
-3. [可选说明](https://github.com/JeffreyTsai1991/metahuman_rig_transfer#optional)
-4. [许可证](https://github.com/JeffreyTsai1991/metahuman_rig_transfer#license)
-
 ##先决条件：
 （用 Py 2.7 编写）
 1. 要装配骨骼的新头部必须与原始泛人类头部共享相同的 UV 和拓扑结构。 像 R3DS Wrap 这样的程序会对此有所帮助。
@@ -21,8 +13,6 @@ youtube 视频演示 - https://www.youtube.com/watch?v=qF-z1aZQUYE
 
 
 ＃＃ 指示：
-
-
 1. 将所有文件保存在某个文件夹中，最好是您的 maya 项目的脚本文件夹。
 2. 在maya中打开**Combined_MH.py**脚本。 你不必碰其他脚本。
 3. 将上述文件夹的位置复制并粘贴到脚本中。 无需更改正斜杠或其他任何内容。
