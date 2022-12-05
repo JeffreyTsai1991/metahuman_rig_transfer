@@ -1,4 +1,4 @@
-# Metahuman Rig 传输脚本
+# Metahuman 绑定传输脚本
 一系列 python 脚本，用于将 metahuman 装备修改为适用于 Maya 的新装备。
 
 ## 先决条件：
