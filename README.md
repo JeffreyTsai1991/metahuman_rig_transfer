@@ -2,7 +2,7 @@
 一系列 python 脚本，用于将 metahuman 装备修改为适用于 Maya 的新装备。
 
 ##先决条件：
-（用 Py 2.7 编写）
+(用 Py 2.7 编写）
 1. 要装配骨骼的新头部必须与原始泛人类头部共享相同的 UV 和拓扑结构。 像 R3DS Wrap 这样的程序会对此有所帮助。
 2. 你从 Metahuman 下载的文件的 embeddedNodeRL4 节点将以 DNA_RL 文件命名，类似于 Kristopher_rl 或 rl4Embedded_Kristofer_rl，如果 metahuman 的名字是 Kristopher。 **将其更改为 rigLogicNode**
 3. ![图片](https://user-images.githubusercontent.com/88772846/132264485-74e9d98e-38d9-4227-ab56-1ca9fc5effd5.png)
