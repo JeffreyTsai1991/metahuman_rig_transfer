@@ -22,11 +22,11 @@
 5. 现在骨骼应该与新网格的表面对齐。 是时候装配新头部并转移骨骼重量了。
 6. 选择 **DHIhead:spine_04**，然后在大纲中依次选择 **New mesh**。 去Skin >> bind skin (options) 并确保你有这样的设置
 7. ![图片](https://user-images.githubusercontent.com/88772846/132264992-14f758d7-3061-4cb3-ae5c-24eb1464d548.png)
-8. 现在是复制蒙皮权重的时候了。 按顺序在大纲中选择**original metahuman head（原始Metahuamn头部）**和**new head（新头部）**，然后转到皮肤>>复制皮肤权重并确保设置如下所示。
+8. 现在是复制蒙皮权重的时候了。 按顺序在大纲中选择**original metahuman head（原始Metahuamn头部）**和**new head（新头部）**，然后转到 skin >> copy skin weights 并确保设置如下所示。
 9. ![图片](https://user-images.githubusercontent.com/88772846/132265047-68307310-67fa-44ef-9059-cfc6b9e2ae58.png)
 10. 你现在已经完成了，开始玩你绑定的头。
 
-＃＃ 可选的：
+＃＃ 可选：
 如果关节太大，您看不到它们是如何对齐的，您可以从大纲中选择 DHI:spin_04，然后运行 **select joint children.py** 脚本以选择层次结构中的所有关节。 您现在可以转到通道框并将骨骼的半径更改为 0.2 而不是原来的 1。
 
 # 许可：
